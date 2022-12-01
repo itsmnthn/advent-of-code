@@ -1,0 +1,8 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:itsmnthn/advent-of-code.git",
+  "author": "Manthankumar Satani <satanimanthan@gmail.com>",
+  "license": "MIT"
+}
